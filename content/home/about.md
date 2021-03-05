@@ -1,21 +1,18 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: RECENT-POSTS
+headless: true
+weight: 20
+title: 詹宏章
+design:
+  columns: "2"
+  background:
+    color: "#d3e8e5"
+    gradient_start: "#dde672"
+    gradient_end: "#3b44e6"
+    image: /assets/media/dose-media-bu6jyhsi6zo-unsplash.jpg
+    image_darken: 0
 ---
+現任 : 僑光科技大學多媒體與遊系設計系助理教授
